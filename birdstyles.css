@@ -26,16 +26,20 @@ footer{
 #head{
     height:inherit;
 }
+#content{
+    float:right;
+}
 #contentpic{
-    width:100px;
-    height:100px;
-    float:center;
+    width:70%;
+    height:300px;
+    margin-left:70px;
 }
 #profilepic{
     width:100px;
     height:100px;
     float:left;
 }
-#buttons{
+.butt{
     float:left;
+    margin-left:30px;
 }
